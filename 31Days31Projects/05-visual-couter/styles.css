@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* { 
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #8e44ad;
+  display: flex;
+  font-family: 'Roboto', sans-serif;
+  color: #fff;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.counter {
+  font-size: 60px;
+}
