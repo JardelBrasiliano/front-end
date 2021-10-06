@@ -7,4 +7,6 @@ Projetos de desafios, seja eles do youtube ou em sites conhecidos
 
 ### 50 Days 50 Projects <a href="/50Days50Projects"> ver projetos</a>
 
-### Front End Mentor <a href="/FrontEndMentor"> ver projetos</a>
+### Front End Mentor <a href="/front-end-mentor"> ver projetos</a>
+
+### Codepen <a href="/FrontEndMentor"> ver projetos</a>
