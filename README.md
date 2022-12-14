@@ -3,7 +3,7 @@
 
 Projetos de desafios, seja eles do youtube ou em sites conhecidos
 
-### 31 Days 31 Projects <a href="/31Days31Projects"> ver projetos</a>
+### 31 Days <a href="/31Days31Projects"> ver projetos</a>
 
 ### iCodeThis <a href="/iCodeThis"> ver projetos</a>
 
