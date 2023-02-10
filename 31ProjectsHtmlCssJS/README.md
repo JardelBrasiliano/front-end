@@ -36,4 +36,8 @@ https://www.youtube.com/playlist?list=PLgBH1CvjOA62ktHHwqSYBeq4jmGmUezNo
 
 ### 09 - Hover Board
 
-<img src="../31ProjectsHtmlCssJS/demo/09-hover-board.gif" width="500" title="Image reflection">
+<img src="../31ProjectsHtmlCssJS/demo/09-hover-board.gif" width="500" title="Hover Board">
+
+### 10 - Mix Blend Loader
+
+<img src="../31ProjectsHtmlCssJS/demo/10-mix-blend-loader.gif" width="500" title="Mix Blend Loader">
