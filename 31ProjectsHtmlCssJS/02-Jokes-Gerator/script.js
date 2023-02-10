@@ -8,8 +8,8 @@ generateJoke();
 async function generateJoke() {
   const jokeRes = await fetch('https://icanhazdadjoke.com/', {
     headers: {
-      'Accept': 'application/json'
-    }
+      Accept: 'application/json',
+    },
   });
 
   const joke = await jokeRes.json();

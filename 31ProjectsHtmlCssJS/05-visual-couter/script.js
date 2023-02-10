@@ -1,6 +1,6 @@
 const counters = document.querySelectorAll('.counter');
 
-counters.forEach(couter => {
+counters.forEach((couter) => {
   couter.innerTexts = '0';
 
   const updateCounter = () => {
@@ -10,13 +10,13 @@ counters.forEach(couter => {
 
     const increment = Math.random() * 100;
 
-    if(c < target) {
+    if (c < target) {
       couter.innerText = Math.ceil(c + increment);
       setTimeout(updateCounter, 1);
-    }else {
+    } else {
       couter.innerText = target;
     }
-  }
+  };
 
   updateCounter();
 });

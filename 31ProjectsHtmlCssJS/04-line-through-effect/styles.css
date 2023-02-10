@@ -27,7 +27,7 @@ h1 {
   position: absolute;
   top: 50%;
   left: -2vw;
-  transform: translateY(-50%, );
+  transform: translateY(-50%);
   height: 2.5vh;
   width: 0;
   z-index: 2;
