@@ -45,3 +45,7 @@ https://www.youtube.com/playlist?list=PLgBH1CvjOA62ktHHwqSYBeq4jmGmUezNo
 ### 11 - Auto ext Effect
 
 <img src="../31ProjectsHtmlCssJS/demo/11-auto-text-effect.gif" width="500" title="Auto ext Effect">
+
+### 12 -Css Smooth Scroll
+
+<img src="../31ProjectsHtmlCssJS/demo/12-css-smooth-scroll.gif" width="500" title="Auto ext Effect">
