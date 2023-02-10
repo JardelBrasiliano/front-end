@@ -41,3 +41,7 @@ https://www.youtube.com/playlist?list=PLgBH1CvjOA62ktHHwqSYBeq4jmGmUezNo
 ### 10 - Mix Blend Loader
 
 <img src="../31ProjectsHtmlCssJS/demo/10-mix-blend-loader.gif" width="500" title="Mix Blend Loader">
+
+### 11 - Auto ext Effect
+
+<img src="../31ProjectsHtmlCssJS/demo/11-auto-text-effect.gif" width="500" title="Auto ext Effect">
