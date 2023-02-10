@@ -1,4 +1,3 @@
-
 # Challengers
 
 Projetos de desafios, seja eles do youtube ou em sites conhecidos
