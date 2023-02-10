@@ -3,10 +3,10 @@
 
 Projetos de desafios, seja eles do youtube ou em sites conhecidos
 
-### 31 Days 31 Projects <a href="/31Days31Projects"> ver projetos</a>
+### 31 Projects with Js, Html and css: <a href="/31ProjectsHtmlCssJS"> open</a>
 
-### iCodeThis <a href="/iCodeThis"> ver projetos</a>
+### iCodeThis: <a href="/iCodeThis"> open</a>
 
-### Front End Mentor <a href="/front-end-mentor"> ver projetos</a>
+### Front End Mentor: <a href="/front-end-mentor"> open</a>
 
-### Codepen <a href="https://codepen.io/jardelbrasiliano"> ver projetos</a>
+### Codepen: <a href="https://codepen.io/jardelbrasiliano"> open</a>
