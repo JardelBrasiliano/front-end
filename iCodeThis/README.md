@@ -1,7 +1,8 @@
 ## iCodeThis - daily challenges
 
 https://twitter.com/iCodeThis
-https://www.icodethis.com/
+
+https://www.icodethis.com/Jardel
 
 ### 01 - Users Card
 
