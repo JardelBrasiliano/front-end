@@ -4,6 +4,3 @@
 
 ### iCodeThis: <a href="/iCodeThis"> open</a>
 
-### Front End Mentor: <a href="/front-end-mentor"> open</a>
-
-### Codepen: <a href="https://codepen.io/jardelbrasiliano"> open</a>
