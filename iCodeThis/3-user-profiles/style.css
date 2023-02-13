@@ -166,3 +166,18 @@ main {
 .content-info-footer > p {
   font-size: 11px;
 }
+
+@media only screen and (max-width: 660px) {
+  main {
+    grid-template-columns: 200px 200px;
+    grid-template-rows: 215px 215px 215px;
+  }
+}
+
+@media only screen and (max-width: 440px) {
+  main {
+    margin-top: 800px;
+    grid-template-columns: 200px;
+    grid-template-rows: 215px 215px 215px 215px 215px 215px 10px;
+  }
+}
