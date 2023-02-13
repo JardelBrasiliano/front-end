@@ -11,3 +11,7 @@ https://www.icodethis.com/Jardel
 ### 02 - User Card
 
 <img src="../iCodeThis/demo/2-user-card.png"  width="500" title="User Card">
+
+### 03 - User Profiles
+
+<img src="../iCodeThis/demo/3-user-profiles.png"  width="500" title="User Profiles">
