@@ -15,3 +15,7 @@ https://www.icodethis.com/Jardel
 ### 03 - User Profiles
 
 <img src="../iCodeThis/demo/3-user-profiles.png"  width="500" title="User Profiles">
+
+### 03 - Video Player
+
+<img src="../iCodeThis/demo/4-video-player.png"  width="500" title="Video Player">
